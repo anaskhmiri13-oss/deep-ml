@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T14:51:00.265Z",
+  "generated_at": "2026-11-21T15:55:47.244Z",
   "items": {
     "problem:371": {
       "kind": "problem",
@@ -13,6 +13,19 @@
       "last_pushed_at": "2026-11-21T14:50:57.533Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:127": {
+      "kind": "problem",
+      "id": "127",
+      "title": "Find Captain Redbeard's Hidden Treasure",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/127",
+      "path": "problems/0127-find-captain-redbeard-s-hidden-treasure",
+      "first_solved_at": "2026-11-21T15:55:49.226Z",
+      "last_pushed_at": "2026-11-21T15:55:49.226Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }

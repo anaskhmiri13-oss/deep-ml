@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 13 problems · 0 labs · 0 math
+**14** solved · 14 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Backward Pass of Tanh Using Cached Output](https://www.deep-ml.com/problems/999) | easy | 2026-11-26 | [solution](problems/0999-backward-pass-of-tanh-using-cached-output) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-11-23 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/371) | easy | 2026-11-21 | [solution](problems/0371-calculate-number-of-parameters-in-neural-network) |
+| [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-11-26 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-11-21 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Backpropagation Gradients for a Dense Layer](https://www.deep-ml.com/problems/1076) | medium | 2026-11-25 | [solution](problems/1076-backpropagation-gradients-for-a-dense-layer) |
 | [Backpropagation Through a Scalar Chain Network](https://www.deep-ml.com/problems/1075) | medium | 2026-11-25 | [solution](problems/1075-backpropagation-through-a-scalar-chain-network) |
